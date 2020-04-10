@@ -1,0 +1,5 @@
+.cache/
+dist/
+manifest.webapp
+node_modules
+yarn.lock
